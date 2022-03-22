@@ -1,0 +1,113 @@
+body{
+    margin: auto;
+    text-align: center;
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+#header{
+    text-align: center;
+    font-family: 'Yeseva One';
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 60px 0 20px;
+}
+ 
+#nav{
+    background-color: aqua;
+    color: ;
+    margin: 0;
+    padding: 20px 0 20px;
+    word-spacing: 100px;
+}
+
+a:hover{
+    color: black;
+}
+
+.address{
+    text-align: center;
+   
+}
+
+.phone{
+    text-align: right;
+}
+
+.image{
+    margin: 0px auto;
+}
+
+h2{
+    font-family: 'Yeseva One';
+    color:coral;
+}
+
+p{
+    width: 63%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+}
+
+ol{
+    width: 63%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+}
+
+.border{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: aqua;
+    border-width: 5px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.pic{
+    height: 250px;
+    border-radius: 20px;
+    width: 200px;
+}
+
+.name{
+    font-family: 'Merienda', cursive;
+}
+
+.underline{
+    width: 200px;
+    border-width: 2px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.skill-1{
+    width: 25%;
+    float: : left;
+    margin-right: 80px;    
+}
+
+.skill-2{
+    width: 25%;
+    float: : right;
+    margin-right: 80px;    
+}
+
+.skill-3{
+    width: 25%;
+    float: : left;
+    margin-right: 80px;    
+}
+
+.bottom-container{
+    background-color: aqua;
+    margin: 0;
+    padding: 60px 0 20px;
+}
+
+.copyrights{
+    text-align: center;
+}
